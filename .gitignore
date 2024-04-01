@@ -1,1 +1,35 @@
-# Initial baseline specification
+# Dependencies
+node_modules/
+dashboard/node_modules/
+.pnp
+.pnp.js
+
+# Production build outputs
+dist/
+dashboard/dist/
+build/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+vahan_parallel_scraper.log
+
+# Temporary test screenshots and scratch files
+vahan_test_2025_screen.png
+scratch/
+test_git_tmp/
+verify_test/
+verify_sha_test/
+fast_import_test/
+
+# Environment & OS files
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# Chrome & driver temp
+chromedriver.exe
+*.tmp
