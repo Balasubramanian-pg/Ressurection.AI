@@ -1,1 +1,254 @@
-# Initial baseline specification
+{
+  "Ladakh": {
+    "total_rtos": 3,
+    "success_count": 3,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:49:23"
+  },
+  "Chandigarh": {
+    "total_rtos": 1,
+    "success_count": 1,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:35:11"
+  },
+  "Goa": {
+    "total_rtos": 13,
+    "success_count": 13,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:37:36"
+  },
+  "Andaman & Nicobar Island": {
+    "total_rtos": 10,
+    "success_count": 10,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:31:44"
+  },
+  "Arunachal Pradesh": {
+    "total_rtos": 29,
+    "success_count": 29,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:33:12"
+  },
+  "Assam": {
+    "total_rtos": 39,
+    "success_count": 39,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:34:56"
+  },
+  "Bihar": {
+    "total_rtos": 49,
+    "success_count": 49,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:37:10"
+  },
+  "Andhra Pradesh": {
+    "total_rtos": 84,
+    "success_count": 84,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:37:20"
+  },
+  "Chhattisgarh": {
+    "total_rtos": 31,
+    "success_count": 31,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:37:37"
+  },
+  "Delhi": {
+    "total_rtos": 23,
+    "success_count": 23,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:38:53"
+  },
+  "Gujarat": {
+    "total_rtos": 38,
+    "success_count": 38,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:40:21"
+  },
+  "Jammu and Kashmir": {
+    "total_rtos": 21,
+    "success_count": 21,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:41:56"
+  },
+  "Jharkhand": {
+    "total_rtos": 31,
+    "success_count": 31,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:44:18"
+  },
+  "Himachal Pradesh": {
+    "total_rtos": 116,
+    "success_count": 116,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:47:55"
+  },
+  "Karnataka": {
+    "total_rtos": 68,
+    "success_count": 68,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:49:10"
+  },
+  "Lakshadweep": {
+    "total_rtos": 9,
+    "success_count": 9,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:50:19"
+  },
+  "Haryana": {
+    "total_rtos": 184,
+    "success_count": 184,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:52:36"
+  },
+  "Madhya Pradesh": {
+    "total_rtos": 53,
+    "success_count": 53,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:54:11"
+  },
+  "Kerala": {
+    "total_rtos": 87,
+    "success_count": 87,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:54:33"
+  },
+  "Manipur": {
+    "total_rtos": 17,
+    "success_count": 17,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:55:32"
+  },
+  "Meghalaya": {
+    "total_rtos": 14,
+    "success_count": 14,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:55:39"
+  },
+  "Nagaland": {
+    "total_rtos": 9,
+    "success_count": 9,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:56:26"
+  },
+  "Mizoram": {
+    "total_rtos": 12,
+    "success_count": 12,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:56:28"
+  },
+  "Maharashtra": {
+    "total_rtos": 61,
+    "success_count": 61,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:57:08"
+  },
+  "Puducherry": {
+    "total_rtos": 8,
+    "success_count": 8,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:57:18"
+  },
+  "Odisha": {
+    "total_rtos": 39,
+    "success_count": 39,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 22:59:16"
+  },
+  "Sikkim": {
+    "total_rtos": 9,
+    "success_count": 9,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:00:01"
+  },
+  "Punjab": {
+    "total_rtos": 96,
+    "success_count": 96,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:05:46"
+  },
+  "Rajasthan": {
+    "total_rtos": 145,
+    "success_count": 145,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:08:32"
+  },
+  "Tripura": {
+    "total_rtos": 9,
+    "success_count": 9,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:09:22"
+  },
+  "UT of DNH and DD": {
+    "total_rtos": 3,
+    "success_count": 3,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:09:47"
+  },
+  "Telangana": {
+    "total_rtos": 57,
+    "success_count": 57,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:09:50"
+  },
+  "Tamil Nadu": {
+    "total_rtos": 148,
+    "success_count": 148,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:10:51"
+  },
+  "Uttarakhand": {
+    "total_rtos": 21,
+    "success_count": 21,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:11:36"
+  },
+  "West Bengal": {
+    "total_rtos": 59,
+    "success_count": 59,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:15:01"
+  },
+  "Uttar Pradesh": {
+    "total_rtos": 78,
+    "success_count": 78,
+    "failed_rtos": [],
+    "status": "COMPLETED",
+    "timestamp": "2026-10-27 23:15:34"
+  }
+}
